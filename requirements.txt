@@ -8,3 +8,5 @@ pycryptodome
 urllib3
 pycryptodomex
 google-auth
+protobuf_decoder
+requests
