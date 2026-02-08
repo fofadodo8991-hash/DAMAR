@@ -11,3 +11,4 @@ google-auth
 protobuf_decoder
 requests
 requests
+Flask>=3.0.0
