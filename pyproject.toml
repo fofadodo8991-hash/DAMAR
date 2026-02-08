@@ -1,0 +1,2 @@
+[project.scripts]
+app = "main:app"   # معناها: الملف main.py، والمتغير app جواه
