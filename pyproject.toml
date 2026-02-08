@@ -1,2 +1,9 @@
+[project]
+name = "index"  # غيّر ده لاسم مشروعك
+version = "0.1.0"           # أو dynamic = ["version"] لو عايز uv يحدد الـ version تلقائي
+requires-python = ">=3.12"  # غيّر حسب احتياجك (بدون ^)
+dependencies = []           # أضف dependencies هنا زي "flask>=3.0.0"
+
 [project.scripts]
-app = "main:index"   # معناها: الملف main.py، والمتغير app جواه
+# باقي الـ scripts بتاعتك هنا، مثال:
+your-script = "module:main_function"
