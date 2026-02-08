@@ -1,4 +1,3 @@
-import asyncio
 from protobuf_decoder.protobuf_decoder import Parser
 from byte import *
 from byte import xSEndMsg
