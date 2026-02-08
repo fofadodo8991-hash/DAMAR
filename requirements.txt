@@ -10,3 +10,9 @@ pycryptodomex
 google-auth
 protobuf_decoder
 requests
+requests
+os
+psutil
+sys
+jwt
+pickle
